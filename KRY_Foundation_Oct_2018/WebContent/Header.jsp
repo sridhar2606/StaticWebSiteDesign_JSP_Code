@@ -109,7 +109,7 @@ body { margin:0; padding: 0;}
 		<table>
 		
 		<tr><td><span><img src="Imag/hlogo.jpg" style="width: 6vw; margin-left: 85px;" /></span></td>
-		<td><span style="font-size: 50px; padding-left: 2px;color:#0000FF; margin-left: 30px;">KRY Academy</span></td>
+		<td><span style="font-size: 50px; padding-left: 2px;color:#0000FF; margin-left: 30px;">AGI</span></td>
 		<td><span>&nbsp;&nbsp;</span></td>
 		<td><span style="font-size: 50px;color: #0000FF;"> Coaching Center</span> <br></td></tr>
 		<tr></tr>		
